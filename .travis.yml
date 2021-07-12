@@ -1,0 +1,8 @@
+os: linux
+dist: xenial
+
+language: matlab
+matlab:
+  - latest
+
+script: matlab -batch 'disp("Hello World")'
