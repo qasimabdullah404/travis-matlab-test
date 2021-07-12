@@ -1,7 +1,3 @@
-os: linux
-dist: bionic
-sudo: required
-
 language: matlab
 
 script: matlab -batch 'disp("Hello World")'
