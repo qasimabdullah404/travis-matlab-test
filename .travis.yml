@@ -3,6 +3,6 @@ dist: focal
 
 language: matlab
 matlab:
-  - latest
+  - R2020a
 
 script: matlab -batch 'disp("Hello World")'
