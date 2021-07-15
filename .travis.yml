@@ -2,4 +2,4 @@ os: linux
 
 language: matlab
 
-script: matlab -batch 'disp("Hello World")'
+script: matlab -batch 'disp("Hello World..")'
